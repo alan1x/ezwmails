@@ -11,4 +11,5 @@ setup(
     author="alan1x",
     description=long_description,
     long_description_content_type="text/markdown",
+    url="https://github.com/alan1x/ezwmails.git",
 )
